@@ -1,0 +1,22 @@
+
+
+Vaccine Adverse Event Report System (VAERS) data set 
+
+
+Project :
+
+Website link: https://sites.google.com/view/team2finalreport/home
+
+GitHub link: https://github.com/Ravitek1/vaersdataset
+
+Dataset :
+
+Download Data set :https://vaers.hhs.gov/data/datasets.html
+
+Disclaimer :- VAERS accepts reports of adverse events and reactions that occur following vaccination. Healthcare providers, vaccine manufacturers, and the public can submit reports to the system. While very important in monitoring vaccine safety, VAERS reports alone cannot be used to determine if a vaccine caused or contributed to an adverse event or illness. The reports may contain information that is incomplete, inaccurate, coincidental, or unverifiable. In large part, reports to VAERS are voluntary, which means they are subject to biases.
+
+
+The deaths mentioned in data analysis will not be considered as deaths due to vaccine as per disclaimer provided by the Centers for Disease Control and Prevention (CDC), and the Food and Drug Administration (FDA), agencies of the U.S. Department of Health and Human Services (HHS).
+
+
+
